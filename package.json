@@ -1,0 +1,22 @@
+{
+  "name": "angular-shopping-cart",
+  "version": "1.0.0",
+  "description": "**Click to watch the video:** [![](https://i.gyazo.com/b83c4f06526777f552cb5d817c24e567.png)](https://vimeo.com/135907781)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prowe214/angular-shopping-cart.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prowe214/angular-shopping-cart/issues"
+  },
+  "homepage": "https://github.com/prowe214/angular-shopping-cart",
+  "dependencies": {
+    "angular": "^1.4.7"
+  }
+}
